@@ -34,3 +34,5 @@ bun dev
 部署您的 Next.js 應用程式最簡單的方法是使用由 Next.js 的建立者提供的 [Vercel 平台](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)。
 
 請查看我們的 [Next.js 部署文件](https://nextjs.org/docs/app/building-your-application/deploying) 以獲取更多詳細資訊。
+
+![高雄市停車資訊網](snapshot/截圖 2025-11-20 凌晨12.29.49.png)
