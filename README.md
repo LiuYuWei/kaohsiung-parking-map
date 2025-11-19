@@ -37,4 +37,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-![高雄市停車資訊網](snapshot/截圖 2025-11-20 凌晨12.29.49.png)
+<img src="snapshot/截圖 2025-11-20 凌晨12.29.49.png" />

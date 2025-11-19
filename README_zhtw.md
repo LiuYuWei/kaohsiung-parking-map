@@ -35,4 +35,4 @@ bun dev
 
 請查看我們的 [Next.js 部署文件](https://nextjs.org/docs/app/building-your-application/deploying) 以獲取更多詳細資訊。
 
-![高雄市停車資訊網](snapshot/截圖 2025-11-20 凌晨12.29.49.png)
+<img src="snapshot/截圖 2025-11-20 凌晨12.29.49.png" />
